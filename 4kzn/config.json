@@ -1,0 +1,14 @@
+{
+  "spider": "https://cdn.jsdelivr.net/gh/LUNBATiC/catvod@main/4kzn/index.js",
+  "sites": [
+    {
+      "key": "4kzn",
+      "name": "4K指南",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/LUNBATiC/catvod@main/4kzn/index.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    }
+  ]
+}
